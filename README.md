@@ -20,7 +20,6 @@ Then run:
 Followed by:
 
     php artisan cache:clear
-    
     php artisan config:clear
 
 If any npm run dev issues encountered, follow these steps:
